@@ -2,3 +2,22 @@
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 https://git-scm.com/docs/git
 https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
+
+
+
+
+
+
+
+
+
+
+
+
+       Feature1-------------------
+        |                         Merge
+        |                          |
+-------Master------release1-----Master----Release2------Master
+        |                          |                      |
+        |                         Pull                    Merge
+       Feature2-------------------------------------------
